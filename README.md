@@ -1,17 +1,17 @@
 [!MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 <h1 align="center">Hi 👋, I'm Mim Khatun</h1>
-<h3 align="center">A passionate frontend developer from BangladeshIndia</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mim2041&label=Profile%20views&color=0e75b6&style=flat" alt="mim2041" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mim2041" alt="mim2041" /></a> </p>
 
-- 🔭 I’m currently working on **ema-john-simple**
+- 🔭 I’m currently working on **Science-bee**
 
-- 🌱 I’m currently learning **Back-end, Authenticatiion**
+- 🌱 I’m currently learning **Frontend technologies, backend**
 
-- 💬 Ask me about **JavaScript, react, react router, Authentication**
+- 💬 Ask me about **JavaScript, react, react router, Authentication, Mongodb, Next JS, MUI**
 
 - 📫 How to reach me **suraiyamim338@gmail.com**
 
